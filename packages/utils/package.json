@@ -18,6 +18,7 @@
     "lib"
   ],
   "publishConfig": {
+    "access": "public",
     "registry": "https://registry.npmjs.org"
   },
   "repository": {
@@ -29,5 +30,6 @@
   },
   "bugs": {
     "url": "https://github.com/lulongwen/antd-cli/issues"
-  }
+  },
+  "gitHead": "11bfbb09100187246034e3710f8ef6ab94a63054"
 }
